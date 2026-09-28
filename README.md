@@ -92,27 +92,11 @@ RESTful APIs, and database-driven applications.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohameddeep&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddeep&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohameddeep&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohameddeep&theme=github-compact&hide_border=true" />
 </p>
 
 ---
